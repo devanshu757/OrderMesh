@@ -1,0 +1,4 @@
+com\ordermesh\inventory\InventoryApplication.class
+com\ordermesh\inventory\model\InventoryItem.class
+com\ordermesh\inventory\controller\InventoryController.class
+com\ordermesh\inventory\service\InventoryService.class

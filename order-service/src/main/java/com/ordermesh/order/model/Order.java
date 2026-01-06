@@ -17,4 +17,20 @@ public class Order {
     public void confirm() {
         this.status = "CONFIRMED";
     }
+
+    public String getOrderId() {
+        return orderId;
+    }
+
+    public String getProductId() {
+        return productId;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public String getStatus() {
+        return status;
+    }
 }

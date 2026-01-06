@@ -1,0 +1,4 @@
+com\ordermesh\order\model\Order.class
+com\ordermesh\order\OrderApplication.class
+com\ordermesh\order\controller\OrderController.class
+com\ordermesh\order\service\OrderService.class
